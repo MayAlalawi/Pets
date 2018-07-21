@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+body {
+	background-image:url(image/Background_pink_tats__cat_dog_by_LadyOfGlenmore__.jpg);
+	 background-color:#f0f2f2;
+	 text-align:center;
+	 font-family: Arial, Verdana, sans-serif; }
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
+}
+
+footer {
+	background-color:#005854;
+	font-style:italic;
+ 	font-size:0.8em ;
+	letter-spacing:3px;
+    color:#FFF; text-align:center;
+   }
+   
+.intro{
+	margin-left:50px;
+	color:#006a60;
+	background-color:#FFF;
+	text-align:left;
+	width:700px;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:3%;
+	padding-top:3%;
+	font-size:large;
+	-moz-border-radius: 1em 4em 1em 4em;
+	border-radius: 1em 4em 1em 4em;
+	border-color:#00998c;
+	border:dotted;
+	border-color:#00998c;
+	
+	}
+	
+	.introaboutus{
+	margin-left:50px;
+	color:#006a60;
+	background-color:#FFF;
+	text-align:left;
+	width:450px;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:3%;
+	padding-top:3%;
+	font-size:large;
+	-moz-border-radius: 1em 4em 1em 4em;
+	border-radius: 1em 4em 1em 4em;
+	border-color:#00998c;
+	border:dotted;
+	border-color:#00998c;
+	
+	}
+	.Regd{
+		color:#f6ac1c;
+		font-size:20px;
+		font-weight:bold;
+		}
+		.heads1 {
+		color:#005854;
+		font-family:Verdana, Geneva, sans-serif;
+		font-weight:100 ;
+		 border-bottom:#FFF solid ;}
+		
+	.tableS{
+		width:750px;
+		background-color:#d9ecec;
+		border-radius: 2em 2em 2em 2em;
+		}
+	.headerS{
+		color:#e88d00;
+		font-size:40px;
+		font-weight:bold}
+	
+	.leftintro{
+		margin-left:50px;
+		margin-right:50px;
+	color:#006a60;
+	background-color:#FFF;
+	text-align:center;
+	width:150px;
+	padding-left:5%;
+	padding-right:5%;
+	padding-bottom:3%;
+	padding-top:3%;
+	font-size:large;
+	-moz-border-radius: 1em 4em 1em 4em;
+	border-radius: 1em 4em 1em 4em;
+	border-color:#00998c;
+	border:dotted;
+	border-color:#00998c;}
+	
+	#leftcolumn{ float:left; width:50px; text-align:center;}
+	#rightcolumn{ float:right; width:50px; }
+	#centercolmn{ margin:0 200px 0 250px; width:900px; text-align:center; }
+	#logo{ border-bottom:1px dotted #000000; padding-bottom:20px; overflow:auto; text-align: center}
+	figure{text-align: center;}
+	
+
+		
+nav  { list-style-type: none; text-align:center;}
+nav a { text-decoration: none; 
+	            color:#006a60; text-align:center;
+	            }
+	            
+nav a:link { color:#000000; }
+#nav a:visited { color: #eaeaea; }
+#nav a:hover { background-color: #eaeaea;
+              color: #869dc7; }
+			  
+			  .ans {
+	color:#F30 ;
+	font-size:15px;
+	font-weight:bold
+
+	}
+	
+	h3{
+		font-size:18px;
+		color:#036;
+		 border-bottom:#FFF solid ;
+		}
+		
+		h4{
+			color:#069 ;
+			font-size:16px;
+			}
+			  
+header, nav, footer, figure, figcaption{display:block;}
